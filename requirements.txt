@@ -1,0 +1,6 @@
+datasets
+sentence-transformers
+torch
+pandas
+fastapi==0.78.0
+uvicorn==0.18.3
